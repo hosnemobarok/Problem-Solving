@@ -1,2 +1,1 @@
-# Problem-Solving
-This repository contains code for solving various online judge problems.
+URI Online oj link: https://www.urionlinejudge.com.br/judge/en/problems/index/1
