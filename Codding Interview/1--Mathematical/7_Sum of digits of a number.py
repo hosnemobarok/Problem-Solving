@@ -34,7 +34,6 @@ if __name__ == '__main__':
 
 
 '''
-# GeeksforGeeks Problem Solution
 
 # User function Template for python3
 
