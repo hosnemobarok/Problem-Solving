@@ -8,7 +8,7 @@ def Prime_sum(n):
         if prime[p] == True:
 
             # 4 to n+1 all even number False [not prime number]
-            for i in range(4, n + 1, 2):
+            for i in range(p*p, n + 1, p):
                 prime[i] = False
 
         p += 1
