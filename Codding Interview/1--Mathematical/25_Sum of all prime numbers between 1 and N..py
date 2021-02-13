@@ -15,7 +15,7 @@ def Prime_sum(n):
 
     sum = 0
     # print all prime number
-    for j in range(2, n + 1):
+    for j in range(2, n):
         if prime[j]:
             sum += j
 
@@ -47,7 +47,7 @@ class Solution:
             p += 1
 
         ans = 0
-        for j in range(2, n+1):
+        for j in range(2, n):
             if prime[j]:
                ans += j
 
