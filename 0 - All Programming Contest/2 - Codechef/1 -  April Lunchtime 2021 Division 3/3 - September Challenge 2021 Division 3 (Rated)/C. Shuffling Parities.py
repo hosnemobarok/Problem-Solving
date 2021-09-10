@@ -1,4 +1,4 @@
-# Contest link: https://www.codechef.com/SEPT21C?order=desc&sortBy=successful_submissions
+# Problem link: https://www.codechef.com/SEPT21C/problems/SHUFFLIN
 for _ in range(int(input())):
     n = int(input())
     arr = list(map(int, input().split()))
